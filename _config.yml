@@ -1,0 +1,28 @@
+name: mckinleyassociates
+favicon: null
+layout_spectrum: 0.42188276816159487
+typography_spectrum: 0.07787650264799595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9557618303224444
+  lightness: 0.4325396849308163
+  saturation: 0.8074066317640245
+  rhythmicContrast: 0.8059234840329736
+purpose: []
