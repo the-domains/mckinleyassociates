@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mckinleyassociates]]></title>
         <description><![CDATA[mckinleyassociates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mckinleyassociates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 17:49:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 18:02:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mckinleyassociates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19324924-0020-4d10-b05f-231d89e27c52.jpg">]]></description>
+            <link>https://thegrid.ai/mckinleyassociates/9e1d6acc-5d22-4bd6-b84c-a5ba96ef7d8c/index.html</link>
+            <guid isPermaLink="false">9e1d6acc-5d22-4bd6-b84c-a5ba96ef7d8c</guid>
+            <pubDate>Sun, 28 Feb 2016 18:02:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a478e39c-f1c4-4546-becd-32e320de5947.jpg">]]></description>
-            <link>undefined53421862-1285-4611-b91a-c48a0b48827d/index.html</link>
+            <link>https://thegrid.ai/mckinleyassociates/53421862-1285-4611-b91a-c48a0b48827d/index.html</link>
             <guid isPermaLink="false">53421862-1285-4611-b91a-c48a0b48827d</guid>
             <pubDate>Sun, 28 Feb 2016 17:49:27 GMT</pubDate>
         </item>
