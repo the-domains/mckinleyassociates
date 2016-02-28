@@ -2,7 +2,6 @@ name: mckinleyassociates
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.74399
-title: mckinley A
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fefefe'
+    - '#2c2c2c'
+    - '#8b8b8b'
+    - '#c9c6b3'
+    - '#fb493b'
   brandStrength: 0.9557618303224444
   lightness: 0.4325396849308163
   saturation: 0.8074066317640245
