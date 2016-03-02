@@ -1,28 +1,40 @@
-name: mckinleyassociates
 favicon: null
-layout_spectrum: 0.75459
-typography_spectrum: 0.74399
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: mckinleyassociates
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3942652
+  brandStrength: 0
+  lightness: 0.6863799
   brandColors:
     - '#fefefe'
     - '#2c2c2c'
     - '#8b8b8b'
     - '#c9c6b3'
     - '#fb493b'
-  brandStrength: 0.9557618303224444
-  lightness: 0.4325396849308163
-  saturation: 0.8074066317640245
-  rhythmicContrast: 0.8059234840329736
-purpose: []
+  rhythmicContrast: 0.6541219
+typography_spectrum: 0.5519713
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
